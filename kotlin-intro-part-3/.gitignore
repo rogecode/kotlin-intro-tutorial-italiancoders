@@ -1,0 +1,8 @@
+src/chess.kt
+
+### IntelliJ ###
+out/
+.idea
+*.iws
+*.iml
+*.ipr
